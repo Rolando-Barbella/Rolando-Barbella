@@ -4,8 +4,6 @@ A React JS developer who gets thrilled from creating great pleasing solutions th
 
 On a personal level, kindness, respect, and empathy are my core principles
 
-<br />
-
 ---
 
 ## 🖥️ Latest YouTube videos
