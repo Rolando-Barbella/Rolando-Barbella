@@ -6,7 +6,7 @@ On a personal level, kindness, respect, and empathy are my core principles
 
 ---
 
-## 🖥️ Latest YouTube videos
+## Latest YouTube videos
 
 - [10 Trucos indispensables de Javascript](https://www.youtube.com/watch?v=L0VHJa0Bmi4&t=605s)
 - [Aprende a crear custom hooks con Reac Js ( en Espańol )](https://www.youtube.com/watch?v=Xqw4HTk9UZo&t=37s)
@@ -14,7 +14,7 @@ On a personal level, kindness, respect, and empathy are my core principles
 
 ---
 
-## 📕 Latest blog posts
+## Latest blog posts
 
 - [Que es JAMstack?](https://www.rbcodigo.com/posts/jamstack-en-espanol/que-es-jamstack)
 - [Como escribir un C.V de programador para búsqueda de trabajo en el exterior](https://www.rbcodigo.com/posts/desarrollo-profesional-para-programadores/como-escribir-un-cv-para-busqueda-de-trabajo-en-el-exterior)
