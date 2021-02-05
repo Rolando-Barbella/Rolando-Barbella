@@ -49,7 +49,7 @@ I'm available for work, consultancy, or questions in English or Spanish, feel fr
 [<img align="left" alt="rbcodigo | YouTube" width="22px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="rolandobarbella | Twitter" width="22px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rolandobarbella | LinkedIn" width="22px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rolandobarbella | LinkedIn" width="22px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />][udemy]
+[<img align="left" alt="rolandobarbella | LinkedIn" width="22px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />][course]
 <br />
 <br />
 
