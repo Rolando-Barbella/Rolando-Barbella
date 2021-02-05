@@ -6,7 +6,7 @@ On a personal level, kindness, respect, and empathy are my core principles
 
 ---
 
-## Latest YouTube videos
+## Latest YouTube videos (Spanish)
 
 - [10 Trucos indispensables de Javascript](https://www.youtube.com/watch?v=L0VHJa0Bmi4&t=605s)
 - [Aprende a crear custom hooks con Reac Js ( en Espańol )](https://www.youtube.com/watch?v=Xqw4HTk9UZo&t=37s)
@@ -18,6 +18,8 @@ On a personal level, kindness, respect, and empathy are my core principles
 
 - [Que es JAMstack?](https://www.rbcodigo.com/posts/jamstack-en-espanol/que-es-jamstack)
 - [Como escribir un C.V de programador para búsqueda de trabajo en el exterior](https://www.rbcodigo.com/posts/desarrollo-profesional-para-programadores/como-escribir-un-cv-para-busqueda-de-trabajo-en-el-exterior)
+- [Error boundaries with React](https://dev.to/rolandobarbella/error-boundaries-with-react-js-51am)
+- [Create an online C.V with NextJs + AWS Amplify + Tailwind CSS](https://dev.to/aws-builders/create-an-online-c-v-with-nextjs-aws-amplify-tailwind-css-4dhh)
 
 ## Languages and Tools:
 
