@@ -44,18 +44,3 @@ On a personal level, kindness, respect, and empathy are my core principles.
 
 I'm available for work, consultancy, or questions in English or Spanish, feel free to drop me a line
 
-[<img align="left" alt="rbcodigo.com" width="22px" style="margin-right: 5px"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="rbcodigo | YouTube" width="22px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="rolandobarbella | Twitter" width="22px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rolandobarbella | LinkedIn" width="22px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rolandobarbella | LinkedIn" width="22px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg" />][course]
-<br />
-<br />
-
-[website]: https://www.rbcodigo.com/
-[course]: https://www.udemy.com/user/rolando-barbella/
-[twitter]: https://twitter.com/rolandobarbella
-[youtube]: https://www.youtube.com/channel/UCPnyGGUQ9sfBC_FpAPxp55Q?
-[linkedin]: https://www.linkedin.com/in/rolandobarbella/
-
