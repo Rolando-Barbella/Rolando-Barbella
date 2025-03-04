@@ -5,7 +5,7 @@ A developer who gets thrilled from creating great pleasing solutions that delive
 I have been fortunate enough to have been involved in great projects that have allowed me to gain experience in web, mobile, and desktop environments.
 
 
-<p align="center">
+<p>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React JS" width="60"/>
   <img src="https://cdn.brandfetch.io/idzGRYC3u5/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667740799142" alt="Expo" width="60"/>
   <img src="https://notes.webutvikling.org/images/nextjs.png" alt="Next JS" width="80"/>
