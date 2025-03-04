@@ -1,11 +1,16 @@
 # Hi there, I'm Rolando 
 
-A developer who gets thrilled from creating great pleasing solutions that deliver user-friendly. Since I started programming with different tools and languages, I have focused my career on not just doing a job but delivering quality work, along with great interest in Javascript development with commercial experience in React Native, React Js, and Node Js.
+A developer who gets thrilled from creating great pleasing solutions that deliver user-friendly. Since I started programming with different tools and languages, I have focused my career on not just doing a job but delivering quality work, along with great interest in JavaScript/Typescript development with commercial experience in React Native, React JS, NextJS, Supabase, TailwindCSS and Node JS.
 
 I have been fortunate enough to have been involved in great projects that have allowed me to gain experience in web, mobile, and desktop environments.
 
-I am a member of the AWS Community Builder program, which has led me to focus on serverless technologies with great interest in Aws amplify and DynamoDB.
-On a personal level, kindness, respect, and empathy are my core principles.
+
+<p align="center">
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React JS" width="60"/>
+  <img src="https://notes.webutvikling.org/images/nextjs.png" alt="Next JS" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="80"/>
+  <img src="https://supabase.com/_next/static/media/logo-dark.8c4a68c5.svg" alt="Supabase" width="80"/>
+</p>
 
 
 --
