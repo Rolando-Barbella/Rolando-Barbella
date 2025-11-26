@@ -8,8 +8,8 @@ I have been fortunate enough to have been involved in great projects that have a
 <p>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React JS" width="60"/>
   <img src="https://cdn.brandfetch.io/idzGRYC3u5/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667740799142" alt="Expo" width="60"/>
-  <img src="https://notes.webutvikling.org/images/nextjs.png" alt="Next JS" width="80"/>
-  <img src="https://cdn.brandfetch.io/idsSceG8fK/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668829260323" alt="Supabase" width="80"/>
+  <img src="https://notes.webutvikling.org/images/nextjs.png" alt="Next JS" width="60"/>
+  <img src="https://cdn.brandfetch.io/idsSceG8fK/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668829260323" alt="Supabase" width="60"/>
 </p>
 
 * I'm available for work, consultancy, or questions in English or Spanish. Feel free to drop me a line
